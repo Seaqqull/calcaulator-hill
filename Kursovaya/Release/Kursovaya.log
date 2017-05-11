@@ -1,15 +1,5 @@
 ﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Kursovaya.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Checkup.cpp
-Checkup.cpp(189): warning C4838: преобразование из "ui" в "SHORT" требует сужающего преобразования
-  Files_Struct.cpp
-  Hill_incryption.cpp
   main.cpp
-  menu.cpp
-  Numerics.cpp
-  String.cpp
-  Window.cpp
-Window.cpp(171): warning C4838: преобразование из "ui" в "SHORT" требует сужающего преобразования
-Window.cpp(203): warning C4838: преобразование из "ui" в "SHORT" требует сужающего преобразования
   Создание кода
   All 298 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Создание кода завершено
