@@ -1,0 +1,13 @@
+﻿  Checkup.cpp
+  Files.cpp
+  HillInription.cpp
+  Menu.cpp
+  Numerics.cpp
+  Source.cpp
+  String.cpp
+  Window.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 563 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CalculatorHill.vcxproj -> D:\Repository\GIt\VisualStudio\Calcaulator&Hill\Release\CalculatorHill.exe

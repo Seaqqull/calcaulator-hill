@@ -1,5 +1,0 @@
-﻿  Window.cpp
-e:\knu\2_kurs\warning\kursovaya\kursovaya\window.cpp(171): warning C4838: преобразование из "ui" в "SHORT" требует сужающего преобразования
-e:\knu\2_kurs\warning\kursovaya\kursovaya\window.cpp(203): warning C4838: преобразование из "ui" в "SHORT" требует сужающего преобразования
-  Kursovaya.vcxproj -> E:\KNU\2_Kurs\Warning\Kursovaya\Debug\Kursovaya.exe
-  Kursovaya.vcxproj -> E:\KNU\2_Kurs\Warning\Kursovaya\Debug\Kursovaya.pdb (Full PDB)

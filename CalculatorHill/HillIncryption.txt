@@ -1,0 +1,10 @@
+Word
+1 2 3 4 
+Key
+1 2 3 4 
+Encryption_result
+5 $ $ = 
+ReverseKey
+| 1 . + 
+System
+8
